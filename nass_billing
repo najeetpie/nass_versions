@@ -1,1 +1,1 @@
-{"version":"1.0.0", "changelog":"Release Version"}
+{"version":"1.0.1", "changelog":"Fix for issue where invoices wouldnt open correctly\nUnlocked most of the server sided file\nFix for uploading issues"}
