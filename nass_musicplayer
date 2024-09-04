@@ -1,0 +1,1 @@
+{"version":"2.2.1", "changelog":"\nAdded version checking function\nFix for random errors for users that do not have config.target enabled\nFix for pickup duplication issues"}
