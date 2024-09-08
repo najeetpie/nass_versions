@@ -1,4 +1,4 @@
 {
     "version": "2.0.5",
-    "changelog": "\\nFix for specatating issues\\nFix for some random errors"
+    "changelog": "\nFixed an issue with team spectating\nAdded checks to stop more random errors from happening"
 }
