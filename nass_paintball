@@ -1,1 +1,1 @@
-{"version":"2.0.5","changelog":"\nFixed an issue with team spectating\nAdded checks to stop more random errors from happening"}
+{"version":"2.0.6","changelog":"\nTesting leaving game support\\nAdded support for team radios (pma-voice)\\nNew team deathmatch mode under arcade\\nComplete overhaul for spectating system to fix issues with leaving games while spectating.\\nOptimizations\\nChange of file structure\\nAdded pre-config for map : https://github.com/EncodedDevelopment/Encoded-DeDust-2-Map-Conversion\\nFix NPC and target not spawning or showing on server start"}
