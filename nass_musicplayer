@@ -1,1 +1,1 @@
-{"version":"2.2.3", "changelog":"\nAdded support for Spotify links\nFix for mini player not hiding when the music is paused"}
+{"version":"2.2.3", "changelog":"\nAdded support for Spotify links\nFix for mini player not hiding when the music is paused\nMade sound filtered for vehicles while their doors are closed, should sound muffled when you are outside a car that is playing music"}
