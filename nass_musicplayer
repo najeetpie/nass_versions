@@ -1,1 +1,1 @@
-{"version":"2.2.2", "changelog":"\nFix for DJ Booth not playing music correctly\nSignificant optimizations\nFix for liked songs not correctly adding and deleting\nAdded the ability to move speakers around\nFix for issues with speakers not being shown to other players\nFix for thumbnail not allowing certain video links to be played\nAdded new SQL attributes to allow emojis to be stored correctly"}
+{"version":"2.2.3", "changelog":"\nAdded support for Spotify links\nFix for mini player not hiding when the music is paused"}
