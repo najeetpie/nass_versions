@@ -1,1 +1,1 @@
-{"version":"2.0.5", "changelog":"\nAdded version checking function\nUnlocked new functions\nFixed a bug that would cause the dragtree to duplicate\nFixed bug that would cause issues for players using KMH"}
+{"version":"3.0.0", "changelog":"\nNew Dragtree system\nNew Redlighting system\nNew Staging system"}
