@@ -1,1 +1,1 @@
-{"version":"2.2.0", "changelog":"\nAdded version check\nAdded muiltijob support\nAdded support for multiple banking scripts\nAddded qbox support\nCleaned up fxmanifest and starting order"}
+{"version":"2.2.1","changelog":"\nAdded discord logs  Fix for database errors with transaction in cases where names are too long  Unlocked permissions checks function  Fix for Qbox/QBCore salaries and grade names not updating correctly  Added support for tgg-banking  Added support for fd_banking"}
