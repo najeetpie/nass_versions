@@ -1,1 +1,1 @@
-
+{"version":"2.0.1","changelog":"\nFix for bugs with deliveries\nAdded delivery location marker\nAdd minimum downpayment\nFix for Qbox vehicle imports\nAdded new way to edit colors of the main menu\nAdded sorting to the vehicle showroom and the vehicle management menu\nFix for blips being globally shown on minimap\nFix for delivery payouts\nAdded automatic database importing"}
