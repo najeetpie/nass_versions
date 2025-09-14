@@ -1,1 +1,1 @@
-{"version":"1.0.1", "changelog":"Fix for issue where invoices wouldnt open correctly\nUnlocked most of the server sided file\nFix for uploading issues"}
+{"version":"1.0.2", "changelog":"Complete New UI Stylization\nAdded automatic database insertion"}
