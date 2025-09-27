@@ -1,1 +1,1 @@
-{"version":"1.0.1", "changelog":"\nNew Animations Added\nAdded New Stamina System for Fist Fights"}
+{"version":"1.0.3", "changelog":"\nAdded way to disabled specific animations \nAdded job exclusion system so you can remove the fighting system from specific jobs like police\nAdded random chance config option to allow you to set a random chance that the animations trigger\nAdded `canPlayerAttack` function back to the unlocked.lua file\nAdded "move sets" categories for future updates\nUpdated some animations offsets\nNamed all animations"}
